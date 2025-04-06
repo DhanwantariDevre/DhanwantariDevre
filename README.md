@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hello, I'm Dhanwantari Devre
 
-<!--
-**DhanwantariDevre/DhanwantariDevre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a **BTech CSE pursuing student an aspiring Data Scientist** with a passion for buiding projects using Python, developing LLM Models for Exploratory Data Analysis using ollama, gradio like libraries in Python. I would like to find the insights from complex datasets and visualize them according to our requirement. I'm exploring MOC with LLM for Agentic AI.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+#### 💻Languages
+  * 🐍Python
+  * 📱Android
+  * ☕Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📦Libraries 
+  * Numpy
+  * Pandas
+  * Seaborn
+  * Matplotlib
+  * Gradio
+  * Ollama
+
+#### 🛠️Frameworks & Development Tools
+  * 🛢️MySQL
+  * 📈Excel & Power BI
+  * 🟦Visual Studio Code
+  * 📓Jupyter Notebook
+  * 💡PyCharm
+  * 📂Google Workspace
+
+#### 🧠Skills 
+  * Python Development: Development using Python for web, Data Analysis
+  * Data Cleaning
+  * Data Visualization
+  * Databases : MySQL
+  * Build LLM Model
+
+### 📫 Get In Touch
+  * ✉️Email: devredhanwantari72@gmail.com
+  * 🌐Leetcode: https://leetcode.com/u/drdhanu28/
+  * 🔗LinkedIn: http://www.linkedin.com/in/dhanwantaridevre
+
+#### ⚡Fun Facts 
+  *  🌱Always learning something new in tech.
